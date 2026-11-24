@@ -1,0 +1,6 @@
+{
+  "name": "AurumQuant",
+  "description": "24K Digital Gold Buy & Sell Vault with F&O Previous Day Method, BTST, 4 Sets, and UPI Calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
